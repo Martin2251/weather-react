@@ -1,3 +1,7 @@
+This app is developed using React you can type in a city and it will change a different picture above 16c using if and else statement 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
